@@ -64,7 +64,7 @@ have a question or a suggestion that merits discussion. Our Slack channel
 Thai translations of text are always a valued contribution!
 
 
-[wiki]: https://github.com/bkkhack/resources
+[wiki]: https://github.com/bkkhack/resources/wiki
 [Learn Python the Hard Way]: http://learnpythonthehardway.org/
 [Treehouse]: https://teamtreehouse.com/
 [@ches]: https://github.com/ches
