@@ -69,6 +69,6 @@ Thai translations of text are always a valued contribution!
 [Treehouse]: https://teamtreehouse.com/
 [@ches]: https://github.com/ches
 [@djay]: https://github.com/djay
-[open an issue]: https://github.com/ches/activeavro/issues/new
+[open an issue]: https://github.com/bkkhack/resources/issues/new
 
 <!-- vim:set expandtab textwidth=79: -->
