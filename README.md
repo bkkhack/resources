@@ -3,7 +3,7 @@ BKK/hack Resources
 
 This repository (and mainly [its wiki][wiki]) serves to collect curated
 resources for learning popular technologies and programming languages, aimed
-especially at self-starters who are using their time at hack night meetups to
+especially at self-starters who are using their time at [hack night meetups] to
 try something new. There are abundant resources available on the web today, but
 particularly as a beginner it can be difficult to know where to start.
 
@@ -65,6 +65,7 @@ Thai translations of text are always a valued contribution!
 
 
 [wiki]: https://github.com/bkkhack/resources/wiki
+[hack night meetups]: http://www.meetup.com/bkkhack/
 [Learn Python the Hard Way]: http://learnpythonthehardway.org/
 [Treehouse]: https://teamtreehouse.com/
 [@ches]: https://github.com/ches
