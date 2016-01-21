@@ -49,6 +49,7 @@ try these:
   - [Exercism](http://exercism.io/)
   - [HackerRank](https://www.hackerrank.com/)
   - [CodeChef](https://www.codechef.com/problems/school)
+  - [FreeCodeCamp](http://www.freecodecamp.com/)
 
 This kind of practice can be a more fun fit for the environment of a hack night,
 so you may want to try studying background material in advance.
